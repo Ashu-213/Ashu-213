@@ -1,5 +1,12 @@
 # 💫 About Me:
-MERN full-stack developer with hands-on experience in React and Node.js<br><br>Built and shipped real-world products<br><br>Strong practical knowledge of REST APIs, MongoDB, Maptiler, Mapbox, Cloudinary, authentication, deployment, and cloud storage (AWS S3, Cloudflare R2)<br><br>Contributing to open source and focused on building scalable, production-ready systems<br><br>Interested in AI, automation, and modern web engineering<br><br>Currently learning Data Structures and Algorithms
+Software Engineer passionate about building scalable backend systems, real-time applications, and AI-powered products.
+
+I enjoy taking ideas from architecture to production—designing reliable APIs, distributed systems, and intuitive user experiences. My work spans React, Node.js, Java, Python, MongoDB, Redis, WebRTC, REST APIs, Docker, and cloud platforms, with experience integrating LLMs and computer vision into real-world applications.
+
+I've contributed to open source through GSoC's MusicBlocks organization, built production-ready projects ranging from AI interview platforms to real-time video infrastructure, and currently work as a Full-Stack Developer Intern building scalable MERN applications.
+
+Always learning, shipping, and improving through Data Structures & Algorithms, system design, and modern software engineering.
+
 
 
 ## 🌐 Socials:
